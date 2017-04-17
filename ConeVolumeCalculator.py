@@ -6,7 +6,7 @@
 
 # Define Function below
 # be sure to return an integer
-
+print("hello. By the way, this is not the way to do the assignment")
 
 if __name__ == '__main__':
     # Call the function in here if you want to test it
